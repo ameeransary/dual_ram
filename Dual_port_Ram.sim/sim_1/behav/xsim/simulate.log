@@ -1,0 +1,13 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+Out_A=13
+Out_A=0
+Out_A=141
+Out_A=65381
+Out_A=65298
+Out_B=13
+Out_B=0
+Out_B=141
+Out_B=65381
+Out_B=65298
+$finish called at time : 540 ns : File "D:/Vivado/Dual_port_Ram/Dual_port_Ram.srcs/sim_1/new/Ram_tb.v" Line 46
